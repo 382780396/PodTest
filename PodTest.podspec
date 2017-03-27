@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
 
 #   |文件夹1层
-    s.source_files  = "PodTest/PodTest/**/*.{h,m}”
+    s.source_files  = "PodTest/PodTest/**/*.{h,m}"
 
     s.requires_arc = true
     s.dependency "ReactiveCocoa", "~> 2.5"
