@@ -14,6 +14,7 @@
 		6327FBA81E88E77B00756D6C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6327FBA61E88E77B00756D6C /* Main.storyboard */; };
 		6327FBAA1E88E77B00756D6C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6327FBA91E88E77B00756D6C /* Assets.xcassets */; };
 		6327FBAD1E88E77B00756D6C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6327FBAB1E88E77B00756D6C /* LaunchScreen.storyboard */; };
+		6327FBB71E88EA4D00756D6C /* test.m in Sources */ = {isa = PBXBuildFile; fileRef = 6327FBB61E88EA4D00756D6C /* test.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		6327FBA91E88E77B00756D6C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6327FBAC1E88E77B00756D6C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6327FBAE1E88E77B00756D6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6327FBB51E88EA4D00756D6C /* test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
+		6327FBB61E88EA4D00756D6C /* test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = test.m; sourceTree = "<group>"; };
 		93237ED108A1958251ED74F5 /* Pods-PodTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PodTest/Pods-PodTest.debug.xcconfig"; sourceTree = "<group>"; };
 		E1E67D2FCE23C96C5F195EC0 /* Pods-PodTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-PodTest/Pods-PodTest.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -82,6 +85,7 @@
 		6327FB9C1E88E77B00756D6C /* PodTest */ = {
 			isa = PBXGroup;
 			children = (
+				6327FBB41E88EA3C00756D6C /* PodTest */,
 				6327FBA01E88E77B00756D6C /* AppDelegate.h */,
 				6327FBA11E88E77B00756D6C /* AppDelegate.m */,
 				6327FBA31E88E77B00756D6C /* ViewController.h */,
@@ -101,6 +105,15 @@
 				6327FB9E1E88E77B00756D6C /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6327FBB41E88EA3C00756D6C /* PodTest */ = {
+			isa = PBXGroup;
+			children = (
+				6327FBB51E88EA4D00756D6C /* test.h */,
+				6327FBB61E88EA4D00756D6C /* test.m */,
+			);
+			path = PodTest;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -227,6 +240,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6327FBA51E88E77B00756D6C /* ViewController.m in Sources */,
+				6327FBB71E88EA4D00756D6C /* test.m in Sources */,
 				6327FBA21E88E77B00756D6C /* AppDelegate.m in Sources */,
 				6327FB9F1E88E77B00756D6C /* main.m in Sources */,
 			);
