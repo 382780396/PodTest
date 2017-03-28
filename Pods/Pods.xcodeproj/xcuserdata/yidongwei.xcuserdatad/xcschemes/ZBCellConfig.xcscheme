@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '7C8EFA0995F349EC73E95F3DD5C418FE'
+               BlueprintIdentifier = 'BDB85A71DCAE8873F63BE046B51C9392'
                BlueprintName = 'ZBCellConfig'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'ZBCellConfig.framework'>

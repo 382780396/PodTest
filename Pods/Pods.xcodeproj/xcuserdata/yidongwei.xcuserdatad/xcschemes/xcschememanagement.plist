@@ -14,27 +14,7 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>DVSwitch.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>FDStackView.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>FMDB.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>IQKeyboardManager.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>LCActionSheet.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -45,11 +25,6 @@
 			<false/>
 		</dict>
 		<key>MJRefresh.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>MLLabel.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -69,32 +44,12 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>SDAutoLayout.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>SDWebImage.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>TRZXComplaint.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>TRZXDIYRefresh.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>TRZXDVSwitch.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>TRZXFriendCircle.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -124,16 +79,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>TRZXMyTheme.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>TRZXMyWallet.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>TRZXNavigationTableViewHeaderView.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -144,52 +89,12 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>TRZXPersonalAppointment.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>TRZXPersonalCustomerCenter.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>TRZXPersonalHome.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>TRZXPersonalJump.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>TRZXPersonalProfile.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>TRZXShare.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
 		<key>TRZXShareView.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>TRZXShufflingView.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>TRZXZJWPhotoPicker.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>TZImagePickerController.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -212,32 +117,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>002A49262D922EB497C28CA07C750CA2</key>
+		<key>0676A93EBCDD54F0E4C42F92AA75A0C9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>052252C49DF55F66DFE8DBBB710BDA63</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>08AC2BB4C253B93F989BB6D62FFBB4B3</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>0BF077BB87E0D2C4BA7103A5E63123C4</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>1EBADF6F0D7D170AF56078195D8BFCA8</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>22D4567BA8C50B52508A7BD63AF5DBB2</key>
+		<key>0EEFEFAF99EAFB5B9A57A5398A26DAA8</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -247,22 +132,27 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>27D2F0F7B3759CECAA5ED8118B430F39</key>
+		<key>2D799B9FCD62089AFE0E9AFA45113220</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4DC727DF3EB2204BED584093AB50775A</key>
+		<key>2DD06DC645213DD54695A3C3F4E4E7A4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5211FC25DEDE5AFAFCBD5AB1C9B3E907</key>
+		<key>34F70689632007C34E68516F2460ED19</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5A4524062E115312F88177FCD16BF2E6</key>
+		<key>41A138DCE61C0C117A0C6EC2DCC7B1AC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4DB10FF0B27A100C01084E8286E83857</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -272,87 +162,27 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>621AC93147C5DC92889C07827F7FA340</key>
+		<key>6EBAF0846E17A202C1DC7FA0748F0C8C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6E6022B7A00560F4A3FD76F86E459C72</key>
+		<key>752EEC416F00D2DDD25C24DFA1B247C7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>7128F0EAB3331B02EF0E6CFD7D4B44F7</key>
+		<key>822AD3DB208937865E0F5C7E84C4CE81</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>790B33CA567EB134674C7D88F6B323B4</key>
+		<key>AAA9E2B50718E8DCFEE4BC45413DFFE5</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>7C8EFA0995F349EC73E95F3DD5C418FE</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>89E85B9014C8251DDF19EC4B682CA32D</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>8C2A0B99E8203B766B214674B0D5800F</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>8E5DFB5EDAB0F8DCD5338E8926681419</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>91272223AF96E8FC18D74C611C4E7BA8</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>9471E41C5DA383A4B8C0C64508FA697F</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>977F0BCC16EC5F84941165C3EE65684D</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>9E266ECBEBE5A7A3D02549C753EB320F</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A06ADC73C9100600CB9F6FF7ECDE0040</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A0F6535DE795D67F01D1759F592874BF</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A61745D0D7B13319BAD42D52DA8E88A4</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A768920CB89DD29D1D98F8CD8246C224</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A823A5870E09D896ECD6077E5643B9F9</key>
+		<key>ACFC2ACCD0490A773442C2059AA556ED</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -362,17 +192,17 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B883FDDB4A7212945D2B02C70565558F</key>
+		<key>B8ABC783C35A1638AC3C00EBFFEA0108</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C36CB2CB977A4E7D954935096D00A1ED</key>
+		<key>BDB85A71DCAE8873F63BE046B51C9392</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C6A921DE164D53975E3425C574273EB0</key>
+		<key>CD0D74A80E2A4EF350599D1CD5443969</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -382,17 +212,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D1B0CD80C7DE08D072C203A77171202E</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>D7456AF7BF99EECB790F7E03D415D2E3</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>D943CAF6BE20FB6053204D9F5FFE3E7F</key>
+		<key>D52144DE9D7255DE912490FF5A806573</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -402,17 +222,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>E7E54D7A1B5D9ECA46A51E3DA9830F55</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>EE4976034E67198BB7401DEA27D675D6</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>FCFD63FBC540446583BBB6EF183D27AC</key>
+		<key>FAEA6B0BE776BCC441F4C8FC686DDC3D</key>
 		<dict>
 			<key>primary</key>
 			<true/>

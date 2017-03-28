@@ -1,2 +1,0 @@
-# TRZXMyWallet
-MyWallet钱包

@@ -21,8 +21,8 @@ target 'PodTest' do
   pod 'AMapLocation' #定位SDK
   pod 'FMDB'
   pod 'TRZXLogin'
-  pod 'TRZXPersonalHome'
-  pod 'TRZXPersonalJump'
+#  pod 'TRZXPersonalHome'
+#  pod 'TRZXPersonalJump'
   pod 'TRZXShare'
   pod 'TRZXInvestorDetail'
   pod 'TRZXInvestorDetailCategory'

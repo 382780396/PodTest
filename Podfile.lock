@@ -22,18 +22,12 @@ PODS:
   - AMapSearch (4.5.0):
     - AMapFoundation (~> 1.2)
   - CTMediator (0.0.3)
-  - DVSwitch (1.0.2)
-  - FDStackView (1.0)
   - FMDB (2.6.2):
     - FMDB/standard (= 2.6.2)
   - FMDB/standard (2.6.2)
-  - IQKeyboardManager (4.0.8)
-  - LCActionSheet (2.7.2):
-    - Masonry (~> 1.0.1)
   - Masonry (1.0.2)
   - MJExtension (3.0.13)
   - MJRefresh (3.1.12)
-  - MLLabel (1.10.3)
   - ReactiveCocoa (2.5):
     - ReactiveCocoa/UI (= 2.5)
   - ReactiveCocoa/Core (2.5):
@@ -60,34 +54,11 @@ PODS:
     - RongCloudIM/IMKit
   - RongCloudIM/Sticker (2.8.8):
     - RongCloudIM/IMKit
-  - SDAutoLayout (2.1.7)
   - SDWebImage (4.0.0):
     - SDWebImage/Core (= 4.0.0)
   - SDWebImage/Core (4.0.0)
-  - TRZXComplaint (0.0.7):
-    - CTMediator
-    - LCActionSheet
-    - TRZXKit
-    - TRZXNetwork
-    - TZImagePickerController
   - TRZXDIYRefresh (0.0.1):
     - MJRefresh
-  - TRZXDVSwitch (0.0.6)
-  - TRZXFriendCircle (0.0.4):
-    - CTMediator
-    - IQKeyboardManager
-    - Masonry
-    - MJExtension
-    - MJRefresh
-    - MLLabel
-    - SDAutoLayout
-    - SDWebImage
-    - TRZXDIYRefresh
-    - TRZXKit
-    - TRZXMSSBrowse
-    - TRZXNetwork
-    - TRZXZJWPhotoPicker
-    - TZImagePickerController
   - TRZXInvestorDetail (0.1.1):
     - Masonry
     - MJExtension
@@ -109,29 +80,6 @@ PODS:
     - TRZXNetwork
   - TRZXMSSBrowse (0.0.1):
     - SDWebImage
-  - TRZXMyTheme (0.0.7):
-    - CTMediator
-    - DVSwitch
-    - IQKeyboardManager
-    - Masonry
-    - MJExtension
-    - MLLabel
-    - ReactiveCocoa (~> 2.5)
-    - SDAutoLayout
-    - SDWebImage
-    - TRZXDIYRefresh
-    - TRZXNetwork
-  - TRZXMyWallet (0.0.6):
-    - CTMediator
-    - IQKeyboardManager
-    - Masonry
-    - MJExtension
-    - MJRefresh
-    - SDWebImage
-    - TRZXDVSwitch
-    - TRZXKit
-    - TRZXLogin
-    - TRZXNetwork
   - TRZXNavigationTableViewHeaderView (0.0.3):
     - Masonry
     - ReactiveCocoa (~> 2.5)
@@ -139,64 +87,15 @@ PODS:
   - TRZXNetwork (0.0.7):
     - AFNetworking
     - YYCache
-  - TRZXPersonalAppointment (0.0.2):
-    - CTMediator
-    - DVSwitch
-    - IQKeyboardManager
-    - Masonry
-    - MJExtension
-    - MLLabel
-    - ReactiveCocoa (~> 2.5)
-    - SDAutoLayout
-    - SDWebImage
-    - TRZXComplaint
-    - TRZXDIYRefresh
-    - TRZXNetwork
-  - TRZXPersonalCustomerCenter (0.0.6):
-    - CTMediator
-    - MJExtension
-    - SDWebImage
-    - TRZXComplaint
-    - TRZXKit
-    - TRZXNetwork
-  - TRZXPersonalHome (0.1.23):
-    - DVSwitch
-    - FDStackView
-    - Masonry
-    - MJExtension
-    - MLLabel
-    - ReactiveCocoa (~> 2.5)
-    - SDAutoLayout
-    - SDWebImage
-    - TRZXDIYRefresh
-    - TRZXFriendCircle
-    - TRZXLogin
-    - TRZXMyTheme
-    - TRZXMyWallet
-    - TRZXNetwork
-    - TRZXPersonalAppointment
-    - TRZXPersonalCustomerCenter
-    - TRZXPersonalProfile
-    - TRZXShare
-    - TRZXShufflingView
-  - TRZXPersonalJump (0.0.3):
-    - CTMediator
-  - TRZXPersonalProfile (0.0.6):
-    - CTMediator
   - TRZXShare (0.0.4):
     - TRZXShare/Openshare (= 0.0.4)
     - TRZXShareView
   - TRZXShare/Openshare (0.0.4):
     - TRZXShareView
   - TRZXShareView (0.0.1)
-  - TRZXShufflingView (0.0.4):
-    - AFNetworking
-  - TRZXZJWPhotoPicker (0.0.4):
-    - SDWebImage
-  - TZImagePickerController (1.7.8)
   - YYCache (1.0.4)
   - YYText (1.0.7)
-  - ZBCellConfig (0.0.1)
+  - ZBCellConfig (0.0.2)
 
 DEPENDENCIES:
   - AMap3DMap
@@ -216,8 +115,6 @@ DEPENDENCIES:
   - TRZXLogin
   - TRZXMSSBrowse
   - TRZXNetwork
-  - TRZXPersonalHome
-  - TRZXPersonalJump
   - TRZXShare
 
 SPEC CHECKSUMS:
@@ -227,46 +124,27 @@ SPEC CHECKSUMS:
   AMapLocation: 6016f0e09c127461c9c8e36945f34c0f037ad962
   AMapSearch: 7a6ebc20a42e34a021b042b047f198082fc2fc30
   CTMediator: c9a1203561e2232cb9a72822659159a02ae3cf20
-  DVSwitch: cc13ee6ca6244edcb2afa07b6f07978a0b053c1d
-  FDStackView: 3a4bbe0ce9c35e974246a585168b9da8c32213f1
   FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
-  IQKeyboardManager: 1a8189fa153bf09044355ee0ad36826f6767e7f7
-  LCActionSheet: 2071dfc1834585cd7f57a234890cd0a96e4b6682
   Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
   MJExtension: 5932755f451458eefa24239358817f8d291240c7
   MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
-  MLLabel: 3760fb38aeac53b212409b634bc4aa4bf39ab628
   ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
   RongCloudIM: bf728368e7bb0740eab72a175a9f8f4cc52e23b9
-  SDAutoLayout: e9b36d04b8c0b504762a04d76fbbe5108944297a
   SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
-  TRZXComplaint: 1047c0256b262176e3fa118cdbc7c719bade46c6
   TRZXDIYRefresh: a89e7cf1658ff7d57aad081c596c2a9cf137dcf2
-  TRZXDVSwitch: 42ea134959131e7340eec0b363639af369880bd3
-  TRZXFriendCircle: ae6dfe32aafc8b87160a24c5afaf0421fb6a1251
   TRZXInvestorDetail: 0f861784eeaa689b7a3aabc4add54ee2ccf5503e
   TRZXInvestorDetailCategory: 8ec1d81d8563ee0d6747da59686735c1760753a4
   TRZXKit: af6dc2bcca593585d079d59ca10c8912ddc81b56
   TRZXLogin: 5645812a5e4e18e756e53394f4fb4c405be9a81d
   TRZXMSSBrowse: 8457018b72ba433f010d782b0ff045f08bcfbad3
-  TRZXMyTheme: 81fc40e55247af2c2c870f37ef8237dc12c0cfa0
-  TRZXMyWallet: a7e81785cf8b39744ead549f303803043b788d15
   TRZXNavigationTableViewHeaderView: 64366007a2af3f7ccad0f00489a146f0b9bb5078
   TRZXNetwork: d6ce75a420218ed4b6b95f10220442f175947125
-  TRZXPersonalAppointment: 181ca4a8463b0fb73048474fe15a16d6ffba8705
-  TRZXPersonalCustomerCenter: 9822a34b41ee77454b70e206346744f0d53b92c8
-  TRZXPersonalHome: 7b0fc0af4fa87789478d4c6db4727e6af86c1203
-  TRZXPersonalJump: 655818434a87aa974285760d484db097d315480f
-  TRZXPersonalProfile: 7f986519e1872f6d1d385b4113b8cab08477aaed
   TRZXShare: ea2ebd5d9e18df5c513c2fd9dd539228cd160955
   TRZXShareView: b35a8aaafe753e1005c73272177867dd14066e13
-  TRZXShufflingView: c08a623176d51abfd57ac8b400742d64a41606a5
-  TRZXZJWPhotoPicker: 84f869c75d84d33b44741aa59d408b3456814a51
-  TZImagePickerController: 87a138ae5d585225aaa6c8abe2cface0f0ad19dd
   YYCache: 8105b6638f5e849296c71f331ff83891a4942952
   YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
-  ZBCellConfig: 81d13572960dbf03e5a09b70d813f6dceef7de0f
+  ZBCellConfig: 867757a4d63682bede4c27ffdaaee6b19e174e73
 
-PODFILE CHECKSUM: e7f930fd09df731ebced899f84ddbd2cb4a401d7
+PODFILE CHECKSUM: f265ecde7973f24aecdb12519e6a164b02c4f229
 
 COCOAPODS: 1.2.0

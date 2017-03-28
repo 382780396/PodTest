@@ -1,6 +1,0 @@
-framework module TRZXPersonalJump {
-  umbrella header "TRZXPersonalJump-umbrella.h"
-
-  export *
-  module * { export * }
-}
