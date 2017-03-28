@@ -372,6 +372,17 @@ THE SOFTWARE.
 			<key>License</key>
 			<string>MIT</string>
 			<key>Title</key>
+			<string>TRZXPersonalJump</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>MIT
+</string>
+			<key>License</key>
+			<string>MIT</string>
+			<key>Title</key>
 			<string>TRZXShare</string>
 			<key>Type</key>
 			<string>PSGroupSpecifier</string>

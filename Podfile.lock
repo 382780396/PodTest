@@ -87,6 +87,8 @@ PODS:
   - TRZXNetwork (0.0.7):
     - AFNetworking
     - YYCache
+  - TRZXPersonalJump (0.0.3):
+    - CTMediator
   - TRZXShare (0.0.4):
     - TRZXShare/Openshare (= 0.0.4)
     - TRZXShareView
@@ -115,6 +117,7 @@ DEPENDENCIES:
   - TRZXLogin
   - TRZXMSSBrowse
   - TRZXNetwork
+  - TRZXPersonalJump
   - TRZXShare
 
 SPEC CHECKSUMS:
@@ -139,12 +142,13 @@ SPEC CHECKSUMS:
   TRZXMSSBrowse: 8457018b72ba433f010d782b0ff045f08bcfbad3
   TRZXNavigationTableViewHeaderView: 64366007a2af3f7ccad0f00489a146f0b9bb5078
   TRZXNetwork: d6ce75a420218ed4b6b95f10220442f175947125
+  TRZXPersonalJump: 655818434a87aa974285760d484db097d315480f
   TRZXShare: ea2ebd5d9e18df5c513c2fd9dd539228cd160955
   TRZXShareView: b35a8aaafe753e1005c73272177867dd14066e13
   YYCache: 8105b6638f5e849296c71f331ff83891a4942952
   YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
   ZBCellConfig: 867757a4d63682bede4c27ffdaaee6b19e174e73
 
-PODFILE CHECKSUM: f265ecde7973f24aecdb12519e6a164b02c4f229
+PODFILE CHECKSUM: ac7820afefa274cae78057a050420307d471eea3
 
 COCOAPODS: 1.2.0

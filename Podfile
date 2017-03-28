@@ -22,7 +22,7 @@ target 'PodTest' do
   pod 'FMDB'
   pod 'TRZXLogin'
 #  pod 'TRZXPersonalHome'
-#  pod 'TRZXPersonalJump'
+  pod 'TRZXPersonalJump'
   pod 'TRZXShare'
   pod 'TRZXInvestorDetail'
   pod 'TRZXInvestorDetailCategory'

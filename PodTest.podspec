@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "PodTest"
-    s.version      = "0.0.2"
+    s.version      = "0.0.3"
     s.ios.deployment_target = "8.0"
     s.summary      = "A delightful setting interface framework."
     s.homepage     = "https://github.com/382780396/PodTest"
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
     s.dependency "FMDB"
     s.dependency "TRZXLogin"
 #    s.dependency "TRZXPersonalHome"
-#    s.dependency "TRZXPersonalJump"
+    s.dependency "TRZXPersonalJump"
     s.dependency "TRZXShare"
     s.dependency "TRZXInvestorDetail"
     s.dependency "TRZXInvestorDetailCategory"

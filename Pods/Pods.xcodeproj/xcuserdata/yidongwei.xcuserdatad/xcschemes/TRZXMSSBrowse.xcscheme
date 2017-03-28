@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'AAA9E2B50718E8DCFEE4BC45413DFFE5'
+               BlueprintIdentifier = '0D659629EF8FB9B671B0BE63B8A87F62'
                BlueprintName = 'TRZXMSSBrowse'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'TRZXMSSBrowse.framework'>

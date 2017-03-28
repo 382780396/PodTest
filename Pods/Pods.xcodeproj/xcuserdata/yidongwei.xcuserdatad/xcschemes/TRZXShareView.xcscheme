@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '2DD06DC645213DD54695A3C3F4E4E7A4'
+               BlueprintIdentifier = '74B3043E9C10FCA12AAF7F9D874BFA6E'
                BlueprintName = 'TRZXShareView'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'TRZXShareView.framework'>
